@@ -4,8 +4,7 @@ class Config(object):
     # Get this value from my.telegram.org/apps
     API_ID = 6
     API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
-
-    CASH_API_KEY = ""  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
+    # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
     DATABASE_URL = ""  # A sql database url from elephantsql.com
 
@@ -19,8 +18,7 @@ class Config(object):
     SUPPORT_CHAT = "DevilsHeavenMF"  # Your Telegram support group chat username where your users will go and bother you
 
     TOKEN = ""  # Get bot token from @BotFather on Telegram
-
-    TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
+ # Get this value from https://timezonedb.com/api
 
     OWNER_ID = 1356469075  # User id of your telegram account (Must be integer)
 
